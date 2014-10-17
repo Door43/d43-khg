@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khg:home|Door43 (khg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khg|d43-khg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khg/archive/master.zip|d43-khg.zip]]
+
+**Recent Changes**
+{{changes>ns = khg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khg|Ethnologue data]]
+
